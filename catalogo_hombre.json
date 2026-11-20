@@ -1,0 +1,28 @@
+[
+  {
+    "id": "prd_1795144898736",
+    "referencia": "HOM 67543",
+    "producto": "Sporty Casual Style",
+    "coleccion": "Colección RORI 2026",
+    "ocasion": "CASUAL",
+    "silueta": "Comfort-focused outfits",
+    "composicion": "100 % algodón: Transpirable, cómodo y versátil; ideal para climas cálidos o uso diario. En versiones de franela o cepilladas aporta abrigo y suavidad.",
+    "inspiracion": "Clásico moderno: Camisa de cuadros en tonos sobrios con pantalones beige o azul marino.",
+    "cuidado": "Lavar a máquina en ciclo delicado con agua fría (máx. 30 °C) y con colores similares. \nSecar colgado a la sombra. No usar secadora (evita que la tela encoja)",
+    "archivo_imagen": "imagenes/hom 67543.webp",
+    "fecha_registro": "2026-11-20T03:21:38.736Z"
+  },
+  {
+    "id": "prd_1795142866674",
+    "referencia": "STR-HOM 3375011",
+    "producto": "Jeans de mezclilla casuales",
+    "coleccion": "\"New Collection\" ILVENTO",
+    "ocasion": "Casual",
+    "silueta": "Regular",
+    "composicion": "Algodón (100 % o base principal): Aporta resistencia, transpirabilidad y estructura. tejido con hilos de urdimbre teñidos de (azul índigo)",
+    "inspiracion": "jean moderno que se aleja del corte recto tradicional para enfocarse en la ingeniería del patronaje, la arquitectura de las costuras y la ergonomía, transformando una prenda utilitaria en una pieza escultural y funcional.",
+    "cuidado": "Para mantener la forma, el color y la elasticidad de un jean moderno por más tiempo, lo ideal es lavarlo con poca frecuencia, siempre al revés, con agua fría y secarlo al aire libre a la sombra",
+    "archivo_imagen": "imagenes/str-hom 3375011.webp",
+    "fecha_registro": "2026-11-20T03:07:35.292Z"
+  }
+]
